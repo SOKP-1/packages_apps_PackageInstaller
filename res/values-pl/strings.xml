@@ -79,4 +79,7 @@
     <string name="devicePerms" msgid="6733560207731294504">"Dostęp do urządzenia"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Ta aktualizacja nie wymaga nowych uprawnień."</string>
     <string name="grant_confirm_question" msgid="4690289297029223742">"Chcesz przyznać te uprawnienia? Dają one dostęp do:"</string>
+    <string name="currentVersion">Obecna wersja:</string>
+    <string name="newVersion">Nowa wersja:</string>
+    <string name="not_available">brak danych</string>
 </resources>
